@@ -11,7 +11,7 @@
 
 
 (defn -main
-  "I don't do a whole lot ... yet."
+  "solution to sock-pairs hackerrank problem."
   [& args]
   (def input [10 20 20 10 10 30 50 10 20])
 (println (get-pairs input))
